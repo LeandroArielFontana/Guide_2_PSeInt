@@ -1,7 +1,6 @@
 Algoritmo Ejercicio_46_Extra_23_Guia_2
 	//	Realizar un programa que muestre la cantidad de números que son múltiplos de 2 o de
 	//	3 comprendidos entre 1 y 100.
-	
 	Definir Conteo_2, Conteo_3, i Como Entero;
 	
 	Conteo_2 = 0;

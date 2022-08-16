@@ -7,7 +7,6 @@ Algoritmo Ejercicio_46_Extra_23_Guia_2
 	Conteo_3 = 0;
 	
 	Para i <- 1 Hasta 100 Con Paso 1 Hacer
-		
 		Si i mod 2 = 0 Entonces
 			Conteo_2 = Conteo_2 + 1;
 		FinSi
@@ -15,7 +14,6 @@ Algoritmo Ejercicio_46_Extra_23_Guia_2
 		Si i mod 3 = 0 Entonces
 			Conteo_3 = Conteo_3 + 1
 		FinSi
-		
 	FinPara
 	
 	Escribir "Hay ", Conteo_2, " numero(s) que son multiplos de 2";

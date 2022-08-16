@@ -7,19 +7,17 @@ Algoritmo Ejercicio_49_Extra_26_Guia_2
 	//	***
 	//	**
 	//	*
-	
 	Definir Nro, i, j Como Entero;
 	
 	Escribir "Digite de que tamaño desea que sea la escalera";
 	Leer Nro;
 	
 	Para i <- Nro Hasta 1 Con Paso - 1 Hacer
-		Escribir " " ;
+		Escribir " ";
 		
 		Para j = i Hasta 1 Con Paso - 1 Hacer
 			Escribir "* " Sin Saltar;
 		FinPara
-		
-		Escribir " ";
+		Escribir "";
 	FinPara
 FinAlgoritmo
